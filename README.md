@@ -1,3 +1,5 @@
+# This repo is just for advertisement please go to the original git.fok.systems/lyz/sshmask to get the files
+
 sshmask is a python3 program to protect your service behind fwknop, pass, tor and proxychains. Typically used for ssh.
 
 ## Installation
